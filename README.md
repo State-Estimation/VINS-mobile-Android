@@ -1,5 +1,7 @@
 # VINS-Mobile-Android
 
+This is the implementation of the VINS algorithm on the Android platform. If you want to use it on IOS devices, please refer to this link:https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
+
 ### Warning: Potentially harmful code
 
 During tests an anomaly occured where the smartphone has completely crashed and was only recoverable by connecting it to a computer/charger. **Use at your own risk!**
