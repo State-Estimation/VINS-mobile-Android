@@ -1,5 +1,3 @@
-基于https://github.com/jannismoeller/VINS-Mobile-Android 项目进行一些适合自己手机的开发，我的手机是小米mix2，目前运行效果还ok，感谢jannismoeller
-
 # VINS-Mobile-Android
 
 ### Warning: Potentially harmful code
